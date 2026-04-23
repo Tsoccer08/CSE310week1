@@ -6,15 +6,11 @@ This python program prints Hello World.
 
 Steps to build and/or run the software:
 
-1. 
-2. 
-3. 
+1. make a print statement to display hello world
 
 Instructions for using the software:
 
-1. First step here
-2. 
-3. 
+1. Run the software
 
 ## Development Environment
 
@@ -33,6 +29,4 @@ I found these websites useful in developing this software:
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-* [ ]
-* [ ]
-* [ ]
+* [none]
